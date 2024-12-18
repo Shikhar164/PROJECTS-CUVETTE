@@ -1,0 +1,20 @@
+.NotesGroup {
+  display: flex;
+  /* background-color: blue; */
+  justify-content: center;
+  align-items: center;
+  width: '59vw';
+  padding: 5% 0.9% 4% 5%;
+}
+
+.notesName {
+  color:black;
+  font-family: 'Roboto';
+  font-size: 1.29188rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.02581rem;
+  position: relative;
+  left: 10px;
+}
